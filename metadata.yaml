@@ -1,0 +1,28 @@
+_repo: The-Poems-of-Felicia-Hemans_66785
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hemans, Mrs.
+    aliases:
+    - Browne, Felicia Dorothea
+    - Hemans, Felicia Dorothea Browne
+    - Hemans, F. (Felicia)
+    birthdate: 1793
+    deathdate: 1835
+    gutenberg_agent_id: '53957'
+    url: http://www.gutenberg.org/2009/agents/53957
+    wikipedia: https://en.wikipedia.org/wiki/Felicia_Hemans
+description: ''
+gutenberg_issued: '2021-11-21'
+identifiers:
+  gutenberg: '66785'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- 19th century'
+- !lcc 'PR'
+- GITenberg
+title: The Poems of Felicia Hemans
+url: http://www.gutenberg.org/ebooks/66785
